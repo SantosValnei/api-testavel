@@ -24,6 +24,11 @@ Este projeto já conta com o código necessário para subir a API em um servidor
 ├── package.json
 ├── package-lock.json
 ├── README.md
+├── test
+│   ├── models
+│   │   └── editora.test.js
+│   └── routes
+│       └── editorasRoutes.test.js
 ├── server.js
 ├── src
 │   ├── app.js
